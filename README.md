@@ -1,2 +1,3 @@
 # CodeAlpha_LanguageTranslationTool
-AI-powered Language Translation Tool developed using Python and Tkinter, featuring multilingual translation through an API-based approach.
+A collection of AI and Data Analytics projects developed during my CodeAlpha internship, showcasing practical applications of Python, NLP, Machine Learning, and Computer Vision.
+
